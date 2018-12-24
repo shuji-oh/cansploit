@@ -2,7 +2,7 @@
 
 <img width="500" alt="logo" src="https://user-images.githubusercontent.com/27995559/50401141-a2a72b00-07cf-11e9-8ba1-aa2f416a797b.png">
 
-3way-gateway
+cansploit
 ====
 
 ## Overview
@@ -17,16 +17,16 @@ cansploit is penetration test tool for Controller Area Network. Car pentesters c
 
 cansploit  
 ┣━ main  
-┃	┣━ main.py 
-┃	┣━ sniffing.py
-┃	┣━ specification_analysis.py (READ algorithm) 
-┃	┣━ DoS_attack.py (Traditional, Random, Targeted DoS attack)
-┃   ┣━ spoofing_attack.py
-┃	┗━ replay_attack.py
-┣━ sample-IDS
-┃	┣━ cycle-IDS.py 
-┃	┣━ entropy-IDS.py 
-┃	┗━ id-sequence.py	  
+┃	┣━ main.py  
+┃	┣━ sniffing.py  
+┃	┣━ specification_analysis.py (READ algorithm)  
+┃	┣━ DoS_attack.py (Traditional, Random, Targeted DoS attack)  
+┃   ┣━ spoofing_attack.py  
+┃	┗━ replay_attack.py  
+┣━ sample-IDS  
+┃	┣━ cycle-IDS.py  
+┃	┣━ entropy-IDS.py  
+┃	┗━ id-sequence.py  
 ┣━ .cansploitrc  
 ┗━ README.md  
 
@@ -36,9 +36,9 @@ can interface, virtual can interface
 
 ## Usage
 
-$ git clone https://github.com/ohirangosta/cansploit 
-$ cd cansploit
-$ ./cansploit can0
+$ git clone https://github.com/ohirangosta/cansploit  
+$ cd cansploit  
+$ ./cansploit can0  
 
 ## Attack Description
 
