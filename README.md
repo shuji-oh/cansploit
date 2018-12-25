@@ -2,6 +2,25 @@
 
 <img width="500" alt="logo" src="https://user-images.githubusercontent.com/27995559/50401141-a2a72b00-07cf-11e9-8ba1-aa2f416a797b.png">
 
+           .                                         .  
+   .  
+    
+            dBBBBBBb dBBBBB     dB      Bb     .               o  
+           dB    Bb      BBP   dB dB   Bb  
+          dB         dBP BB   dB  BBB Bb  
+         dB    Bb   dBP  BB  dB    Bb'B  
+        dBBBBBBb   dBBBBBBB dB      Bb  
+  
+                                         dBBBBBP  dBBBBBb  dBP    dBBBBP dBP dBBBBBBP  
+            .                      .                  dB' dBP    dB'.BP  
+                                   |       dBP    dBBBB' dBP    dB'.BP dBP    dBP  
+                                 --o--    dBP    dBP    dBP    dB'.BP dBP    dBP  
+                                   |     dBBBBP dBP    dBBBBP dBBBBP dBP    dBP  
+  
+                                                                      .  
+                  .  
+          o  
+
 cansploit
 ====
 
