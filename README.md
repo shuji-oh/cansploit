@@ -16,13 +16,12 @@ cansploit is penetration test tool for Controller Area Network. Car pentesters c
 ## Directory Structure
 
 cansploit  
-┣━ main  
-┃	┣━ main.py  
-┃	┣━ sniffing.py  
-┃	┣━ specification_analysis.py (READ algorithm)  
-┃	┣━ DoS_attack.py (Traditional, Random, Targeted DoS attack)  
-┃   ┣━ spoofing_attack.py  
-┃	┗━ replay_attack.py  
+┣━ main.py  
+┣━ sniffing.py  
+┣━ format_specification_analysis.py (READ algorithm)  
+┣━ DoS_attack.py (Traditional, Random, Targeted DoS attack)  
+┣━ spoofing_attack.py  
+┣━ replay_attack.py  
 ┣━ sample-IDS  
 ┃	┣━ cycle-IDS.py  
 ┃	┣━ entropy-IDS.py  
