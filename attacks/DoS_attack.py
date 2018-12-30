@@ -1,0 +1,2 @@
+import can
+class CanDoSattack:
